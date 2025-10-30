@@ -31,7 +31,7 @@ export function ProductCard({ product }: ProductCardProps) {
     : 0
 
   const handleWhatsAppClick = () => {
-    const message = `Hi! I'm interested in the ${product.name} (Rs. ${product.price.toLocaleString("en-IN")}). I would like to order it?`
+    const message = `Hi! I'm interested in the ${product.name} (Rs. ${product.price.toLocaleString("en-IN")}). Can you provide more details?`
     const whatsappUrl = `https://wa.me/923183289500?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
