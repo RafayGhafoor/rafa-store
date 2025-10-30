@@ -21,19 +21,19 @@
     {
       "id": "fiberhome",
       "name": "Fiberhome",
-      "logo": "/placeholder.svg?height=80&width=120&text=Fibehome",
+      "logo": "https://thalesglobal.me/wp-content/uploads/2022/05/fiberhome.png",
       "description": "Advanced CPE and networking solutions"
     },
     {
       "id": "Aurora",
       "name": "Aurora",
-      "logo": "/placeholder.svg?height=80&width=120&text=Aurora",
+      "logo": "https://lh4.googleusercontent.com/proxy/UNveAvMvv5rxshE-eHoyG76TVi86sPOuapvXUR5CzuyqkCki-mNw7TxJ_bB9JzbOsoUlv5UbmBPdOwtC4mpembeBcVAaV5Zhy4rxZxqOA5xMRXG3",
       "description": "Professional grade networking equipment"
     },
     {
       "id": "Greenpacket",
       "name": "Greenpacket",
-      "logo": "/placeholder.svg?height=80&width=120&text=Greenpacket",
+      "logo": "https://gsma.my.site.com/mwcoem/servlet/servlet.FileDownload?file=00PQt00001lYEeUMAW",
       "description": "Reliable wireless networking solutions"
     }
   ],
