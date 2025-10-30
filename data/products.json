@@ -15,7 +15,7 @@
     {
       "id": "huawei",
       "name": "Huawei",
-      "logo": "/placeholder.svg?height=80&width=120&text=Huawei",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Huawei_Standard_logo.svg/2016px-Huawei_Standard_logo.svg.png",
       "description": "Leading 5G and 4G router technology"
     },
     {
