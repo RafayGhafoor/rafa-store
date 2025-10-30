@@ -70,7 +70,7 @@ export function Hero() {
             <div className="absolute -inset-4 bg-gradient-to-br from-primary/20 via-transparent to-orange-500/10 rounded-3xl blur-2xl opacity-50" />
             <div className="relative aspect-square bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl p-8 flex items-center justify-center border border-primary/30 glass-effect hover:border-primary/60 transition-all duration-500 hover:shadow-2xl">
               <img
-                src="/modern-5g-router-device.jpg"
+                src="https://faragram.com/wp-content/uploads/2025/04/fiberhome.jpg"
                 alt="Featured Router"
                 className="w-full h-full object-contain animate-float hover:scale-105 transition-transform duration-500"
               />
